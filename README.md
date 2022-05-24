@@ -1,6 +1,7 @@
 # 3DCNN-var
 
 For more information, please refer to 
+
 @article{zhao20223d,
   title={A 3D-CNN Framework for Hyperspectral Unmixing with Spectral Variability},
   author={Zhao, Min and Shi, Shuaikai and Chen, Jie and Dobigeon, Nicolas},
